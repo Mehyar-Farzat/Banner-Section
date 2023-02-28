@@ -38,16 +38,21 @@ body{
 
 .border-btn{
     border:none
-    }
+    
+}
+
+.background-status{
+
+    background-color: transparent;
+}
 
 
 .border-bt{
 
     padding: 8px 20px;
     border-radius: 6px;
+    transition: all 0.5s;
 }
-
-
 
 .text-btn{
     background: #0e1133;
@@ -74,6 +79,7 @@ body{
     border-radius: 6px;
     border: 2px solid #0e1133;
 }
+
 
 .text-li{
     color: #0e1133;
