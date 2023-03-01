@@ -35,57 +35,6 @@ body{
     color: #505056;
 }
 
-
-.border-btn{
-    border:none
-    
-}
-
-.background-status{
-
-    background-color: transparent;
-}
-
-
-.border-bt{
-
-    padding: 8px 20px;
-    border-radius: 6px;
-    transition: all 0.5s;
-}
-
-.text-btn{
-    background: #0e1133;
-    color: #fff;
-    line-height: 40px;
-    padding: 0 23px;
-    border-radius: 6px;
-    border: 2px solid #0e1133;
-    
-}
-
-
-.text-link{
-    color: white;
-    text-decoration: none;
-}
-
-.text.bt{
-
-    
-    color: #fff;
-    line-height: 40px;
-    padding: 0 23px;
-    border-radius: 6px;
-    border: 2px solid #0e1133;
-}
-
-
-.text-li{
-    color: #0e1133;
-    text-decoration: none;
-}
-
 .banner-img{
 
     margin-left: 270px;
@@ -103,7 +52,58 @@ body{
     margin-left: 100px;
     margin-block: -40px;
 }
+
+.link-ios{
+
+    border-radius: 10px;
+    text-decoration: none;
+    background-color: #0E1133;
+    color: white;
+    padding: 10px 17px;
+}
  
+.link-android{
+
+    border-radius: 10px;
+    text-decoration: none;
+    background-color: white;
+    color: #0E1133;
+    padding: 10px 17px;
+    border: 1px solid #0E1133;
+}
+
+.link-ios:hover{
+
+    background-color: white;
+    color: #0E1133;
+
+}
+
+.link-android:hover{
+
+    background-color: #0E1133;
+    color: white;
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
 
